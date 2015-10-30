@@ -33,7 +33,6 @@ after_script:
 archive: true
 
 notifications:
-  email:
-    varsha@shippable.com
+  email: false
     
 cache: true
