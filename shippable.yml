@@ -33,6 +33,8 @@ after_script:
 archive: true
 
 notifications:
-  email: false
+  email: 
+    testnotifications.beta@gmail.com
+  irc: "chat.freenode.net#test-irc"
     
 cache: true
